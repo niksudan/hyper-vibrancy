@@ -1,0 +1,17 @@
+{
+  "name": "hyper-vibrancy",
+  "version": "0.1.0",
+  "description": "Add a vibrancy effect to any Hyper theme",
+  "main": "index.js",
+  "author": "Nik Sudan",
+  "license": "MIT",
+  "keywords": [
+    "hyper",
+    "vibrancy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niksudan/hyper-vibrancy"
+  },
+  "dependencies": {}
+}
