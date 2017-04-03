@@ -1,6 +1,6 @@
 {
   "name": "hyper-vibrancy",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Add a vibrancy effect to any Hyper theme",
   "main": "index.js",
   "author": "Nik Sudan",
